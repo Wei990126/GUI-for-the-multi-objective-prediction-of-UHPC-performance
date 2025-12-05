@@ -1,3 +1,12 @@
-This warehouse contains original auxiliary materials and GUI running code. If you have any questions about the original text, please contact weizhang01@tongji.edu.cn. If you find it helpful, please quote the original article. The GUI architecture consists of three core panel modules: 
-(1) The data input module configures 21 feature parameter input regions covering critical variables including raw materials quantities, specimen specifications, and curing conditions, incorporating dynamic range validation to ensure compliance with predefined constraints. (2) The multi-objective output module displays real-time computational results across five optimisation dimensions, encompassing performance and cross-scale environmental indicators. 
-(3) The control unit module integrates functional buttons ('Predict', 'Clear', 'Save', 'Exit'), where activating the 'Predict' command triggers immediate display of parameter-matched prediction outcomes.
+This repository contains the original supplementary materials and GUI source code. For inquiries regarding the original manuscript, please contact weizhang01@tongji.edu.cn. If you find these resources useful, please cite the original publication.
+
+The GUI is structured around three core panel modules:
+
+Data Input Module
+Configures 21 feature parameter input fields covering key variables such as raw material quantities, specimen dimensions, and curing conditions. The module includes dynamic range validation to ensure all entries comply with predefined constraints.
+
+Multi‑Objective Output Module
+Displays real‑time computational results across five optimization dimensions, including performance metrics and cross‑scale environmental indicators.
+
+Control Unit Module
+Integrates functional buttons (“Predict”, “Clear”, “Save”, “Exit”). Clicking “Predict” triggers the immediate display of prediction outcomes corresponding to the entered parameters.
