@@ -12,9 +12,15 @@ Displays real‑time computational results across five optimization dimensions, 
 Integrates functional buttons (“Predict”, “Clear”, “Save”, “Exit”). Clicking “Predict” triggers the immediate display of prediction outcomes corresponding to the entered parameters.
 
 Reproducibility Checklist：
+
 (1) Environment and Core Libraries: 
+
 (2) GUI Framework: tkinter version 8.6  
+
 (3) Numerical Computation: numpy version 1.23.5  
+
 (4) Model Persistence: joblib version 1.4.2    
+
 (5) Gradient Boosting (CatBoost): catboost version 1.2.7 
+
 (6) Gradient Boosting (XGBoost): xgboost version 2.1.4
