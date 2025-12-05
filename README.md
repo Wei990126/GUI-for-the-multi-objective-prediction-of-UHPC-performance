@@ -10,3 +10,11 @@ Displays real‑time computational results across five optimization dimensions, 
 
 (3) Control Unit Module
 Integrates functional buttons (“Predict”, “Clear”, “Save”, “Exit”). Clicking “Predict” triggers the immediate display of prediction outcomes corresponding to the entered parameters.
+
+Reproducibility Checklist：
+Environment and Core Libraries: 
+GUI Framework: tkinter version 8.6  
+Numerical Computation: numpy version 1.23.5  
+Model Persistence: joblib version 1.4.2    
+Gradient Boosting (CatBoost): catboost version 1.2.7 
+Gradient Boosting (XGBoost): xgboost version 2.1.4
